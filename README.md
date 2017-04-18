@@ -2,6 +2,8 @@
 
 This is a very, very simple vim color file.
 
+Note: It sets only _cterm_ colors. So, it does not work on gvim.
+
 ## Usage
 
 1. Clone or download this repository;
